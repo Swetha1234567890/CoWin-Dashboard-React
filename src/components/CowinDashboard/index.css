@@ -1,0 +1,30 @@
+/* Write your CSS here */
+.background {
+  background-color: #161625;
+  background-size: cover;
+  padding-left: 40px;
+  padding-top: 30px;
+}
+
+.logo {
+  height: 60px;
+  width: 60px;
+  margin-top: 15px;
+}
+
+.heading {
+  color: #2cc6c6;
+  font-family: 'Roboto';
+  font-size: 40px;
+  margin-left: 10px;
+}
+
+.sub-heading {
+  color: #cbd5e1;
+  font-family: 'Roboto';
+  font-size: 35px;
+}
+
+.heading-container {
+  display: flex;
+}

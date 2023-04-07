@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.vc-container {
+  background-color: #1c1c2b;
+  padding: 20px;
+  margin: 20px;
+}
+
+.vc-heading {
+  color: #cbd5e1;
+  font-family: 'Roboto';
+  font-size: 35px;
+}
